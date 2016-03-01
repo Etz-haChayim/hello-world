@@ -1,2 +1,3 @@
 # hello-world
-the first project
+hi every one
+I like python,e~ that's all!
